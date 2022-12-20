@@ -1,0 +1,22 @@
+.networks {
+  display: none;
+}
+.networks--text{
+    font-size: var(--px18);
+    color: var(--gray);
+    padding-bottom: 30px;
+}
+.networks--items li{
+    transform: scale(1.3);
+}
+@media only screen and (max-width: 1200px) {
+  .networks--items {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    max-width: 70%;
+  }
+  .networks{
+    display: block;
+  }
+}

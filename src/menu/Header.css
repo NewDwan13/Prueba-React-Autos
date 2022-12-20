@@ -1,0 +1,37 @@
+.Menu {
+  padding: 20px;
+}
+
+.Menu--logo {
+  width: 100%;
+  margin-left: 20px;
+  transition: all 0.3s linear;
+}
+
+.Menu--info__price {
+  display: inline-block;
+  opacity: 1;
+  transition: all 0.3s linear;
+}
+.Menu--info__price.active {
+  opacity: 0;
+  z-index: -1;
+}
+
+.Menu--info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Menu--info__country {
+  object-position: 10px 3px;
+}
+.Menu.active .Menu--logo {
+  width: 78px;
+}
+
+@media (min-width: 1200px) {
+    .Menu--logo {
+        width: auto;
+      }
+}
