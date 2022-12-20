@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Prueba-React-Autos/static/css/main.98f8532c.css",
+    "main.js": "/Prueba-React-Autos/static/js/main.c840b06a.js",
+    "static/media/Poppins-Regular.ttf": "/Prueba-React-Autos/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/bg.png": "/Prueba-React-Autos/static/media/bg.090f46dfc2678b70f0e8.png",
+    "static/media/PCAR_US.png": "/Prueba-React-Autos/static/media/PCAR_US.3aac66bc6181e4f39930.png",
+    "static/media/plus.svg": "/Prueba-React-Autos/static/media/plus.858ee6dc46c695c5259d.svg",
+    "index.html": "/Prueba-React-Autos/index.html",
+    "main.98f8532c.css.map": "/Prueba-React-Autos/static/css/main.98f8532c.css.map",
+    "main.c840b06a.js.map": "/Prueba-React-Autos/static/js/main.c840b06a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f8532c.css",
+    "static/js/main.c840b06a.js"
+  ]
+}
