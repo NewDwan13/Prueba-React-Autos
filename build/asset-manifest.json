@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/prueba-react/static/css/main.9f4e5408.css",
+    "main.js": "/prueba-react/static/js/main.98b4da91.js",
+    "static/media/Poppins-Regular.ttf": "/prueba-react/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/bg.png": "/prueba-react/static/media/bg.090f46dfc2678b70f0e8.png",
+    "static/media/PCAR_US.png": "/prueba-react/static/media/PCAR_US.3aac66bc6181e4f39930.png",
+    "static/media/plus.svg": "/prueba-react/static/media/plus.858ee6dc46c695c5259d.svg",
+    "index.html": "/prueba-react/index.html",
+    "main.9f4e5408.css.map": "/prueba-react/static/css/main.9f4e5408.css.map",
+    "main.98b4da91.js.map": "/prueba-react/static/js/main.98b4da91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f4e5408.css",
+    "static/js/main.98b4da91.js"
+  ]
+}
